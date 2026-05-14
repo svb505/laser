@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="laser/laser.vcxproj" Id="ce758b51-8ce6-4162-b5c6-ca29e17ee6ac" />
+</Solution>
